@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Im currently working as a Python developer
 <!--
 **26christy/26christy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
